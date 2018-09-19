@@ -1,2 +1,1 @@
-# workshops
-repo for workshop materials
+# Workshop materials
